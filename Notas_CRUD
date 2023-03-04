@@ -1,0 +1,7 @@
+Notas Django CRUD
+
+- el comando 
+
+python -m venv venv
+
+es para crear el entorno virtual donde trabajaremos.
